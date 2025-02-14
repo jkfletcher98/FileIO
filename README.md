@@ -22,10 +22,12 @@ of of of
 fun fun fun fun fun fun
 ```
 
-## printLine
+## main
 ```
 for each line in the file
-	total gets sum of ints
+	divide the data into variables
+	assign the numbers as ints and the text as str
+	total gets the sum of the two ints
 	print str {total} times
 ```
 
