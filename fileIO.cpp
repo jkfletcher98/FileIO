@@ -6,6 +6,7 @@ int main(){
 	std::string currentLine;
 
 	inFile.open("data.csv");
-	getline();
+	getline(str currentLine)
+		std::cout << currentLine
 
 	inFile.close();
