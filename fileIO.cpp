@@ -5,6 +5,7 @@ int main(){
 	std::stringstream converter;
 	std::string currentLine;
 
+	inFile.open("data.csv");
+	getline();
 
-
-	inFile.open("data.csv")
+	inFile.close();
